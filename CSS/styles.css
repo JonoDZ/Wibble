@@ -4,18 +4,24 @@ html {
   margin: 0;
   padding: 0;
 }
+body {
+	margin: 0;
+	padding: 0;
+}
 
 /* line 9, ../sass/styles.scss */
 .testImage {
   margin-left: 0px;
   margin-right: 0px;
-  height: 5px;
+  height: 1px;
   width: 100px;
 }
 
 /* line 17, ../sass/styles.scss */
 #list {
+  top:0;
   float: left;
+  margin-left: 200px;
 }
 
 /* line 22, ../sass/styles.scss */
