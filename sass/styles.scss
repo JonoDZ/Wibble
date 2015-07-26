@@ -1,0 +1,26 @@
+$colourBackground: #f2f2f2;
+
+html {
+	background-color: $colourBackground;
+	margin: 0;
+	padding: 0;
+}
+
+.testImage {
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 10px;
+	width: 100px;
+}
+
+
+#list{
+	float: left;
+}
+
+#list{
+	img {
+
+		display: block;
+	}
+}

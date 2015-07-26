@@ -1,0 +1,24 @@
+/* line 3, ../sass/styles.scss */
+html {
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 9, ../sass/styles.scss */
+.testImage {
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 5px;
+  width: 100px;
+}
+
+/* line 17, ../sass/styles.scss */
+#list {
+  float: left;
+}
+
+/* line 22, ../sass/styles.scss */
+#list img {
+  display: block;
+}

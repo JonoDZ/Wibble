@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"paD",
+				"padding-right"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bottom",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "package control: in",
+		"selected_items":
+		[
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jono/repos/Wibble"
+	],
+	"file_history":
+	[
+		"/Users/jono/repos/screenlock.io/css/style.css",
+		"/Users/jono/repos/screenlock.io/sass/styles.scss",
+		"/Users/jono/repos/screenlock.io/sass/screen.scss",
+		"/C/Users/jzac9_000/Desktop/compare/older/index.html",
+		"/C/Users/jzac9_000/Desktop/compare/newer/style.css",
+		"/C/Users/jzac9_000/Desktop/compare/newer/index.html",
+		"/C/Users/jzac9_000/Desktop/compare/older/style.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy/levyPublishGit/www/style.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy/levyPublishGit/www/LEVY SUBLIME PROJECT.sublime-workspace",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy/levyPublishGit/www/js/imgInsert.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy/levyPublishGit/www/index.html",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy/levyPublishGit/www/js/scripts.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy/levyPublishGit/www/indexREDUNDANT",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/notes.txt",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/js/image-cycle1.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/css/colors/color-blue.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/images/linkedin.png",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/js/image-cycle.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/js/scripts.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/js/jquery-1.11.2.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Assets/slider/jquery/examples-jquery/simple-slider.source.html",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/engine1/style.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/cssslider.html",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/CSS Slider/engine1/style.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/CSS Slider/cssslider.html",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/css/navigation-style-1.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/style.css",
+		"/C/Users/jzac9_000/Desktop/www/index.html",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/index.html",
+		"/C/Users/jzac9_000/Desktop/b  - more of this girl .html",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/levylogo.gif",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/js/jquery.tweet.js",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/css/jquery.bxslider.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Levy 1/www/css/prettyPhoto.css",
+		"/C/Users/jzac9_000/Documents/work/Web Design/Assets/Site templates/newave/www/index.html",
+		"/C/Users/jzac9_000/Google Drive/Web Development/Levy/index.html",
+		"/C/Users/jzac9_000/Google Drive/Web Development/Levy/css/main.css",
+		"/C/Users/jzac9_000/Google Drive/Web Development/Levy/css/bootstrap.css",
+		"/C/Users/jzac9_000/AppData/Roaming/Sublime Text 3/Packages/User/HTML chrome.sublime-build"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\jzac9_000\\Documents\\work\\Web Design\\Levy 1\\www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@levy",
+			"Pharm",
+			"pharm",
+			"SkillITT",
+			"SkillIT",
+			"SkillI",
+			"Area",
+			"LevyiteID",
+			"container",
+			"levyite",
+			"services",
+			".container",
+			"text-r",
+			"fa-play-circle",
+			"                 \n",
+			"section-t",
+			"container",
+			"background-im",
+			"levyite",
+			"center",
+			"latlng",
+			";\n",
+			"container",
+			"quote",
+			"parall",
+			"quote-",
+			"quote",
+			"quote-par",
+			"quote-para",
+			"quote",
+			"container q",
+			"container quote",
+			"paral",
+			".js",
+			"autopl",
+			"auto",
+			"z-i",
+			"home-",
+			"home-st",
+			"menu-1",
+			">\n",
+			"quote-parallax",
+			"we love te",
+			" quote",
+			"quote",
+			"nav",
+			"logo",
+			"nav",
+			"team-profi",
+			"third",
+			"team-person",
+			"span",
+			"h3",
+			"one_halfh3",
+			"one_half",
+			"h1",
+			"h2",
+			"last",
+			"one_half last",
+			"one_half",
+			"one-half",
+			">\n",
+			"div",
+			"menu-1",
+			"menu",
+			"collapse-men",
+			"keyboar",
+			"class",
+			"boxGen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Wibble.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"homepagecss.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
